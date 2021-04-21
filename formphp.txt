@@ -1,0 +1,8 @@
+<form method="get" action ="http://localhost:51580/Default.aspx">
+
+      Nombre  <input type="text" name="nombre"/><br/>
+	  Apellido<input type="text" name="apellido"/><br/>
+	  codigo<input type="text" name="codigo"/><br/>
+	          <input type="submit" name="enviar"/>
+	    
+</form>
